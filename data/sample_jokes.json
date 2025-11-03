@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "comedian": "Mitch Hedberg",
+    "joke": "I bought a $7 pen because I always lose pens and I got sick of not caring.",
+    "special": "Strategic Grill Locations",
+    "year": 1999
+  },
+  {
+    "id": 2,
+    "comedian": "Mitch Hedberg",
+    "joke": "I used to do drugs. I still do, but I used to, too.",
+    "special": "Strategic Grill Locations",
+    "year": 1999
+  },
+  {
+    "id": 3,
+    "comedian": "Mitch Hedberg",
+    "joke": "I'm against picketing, but I don't know how to show it.",
+    "special": "Strategic Grill Locations",
+    "year": 1999
+  },
+  {
+    "id": 4,
+    "comedian": "Mitch Hedberg",
+    "joke": "My fake plants died because I did not pretend to water them.",
+    "special": "Mitch All Together",
+    "year": 2003
+  },
+  {
+    "id": 5,
+    "comedian": "Mitch Hedberg",
+    "joke": "When I was a boy, I laid in my twin-sized bed and wondered where my brother was.",
+    "special": "Mitch All Together",
+    "year": 2003
+  },
+  {
+    "id": 6,
+    "comedian": "Mitch Hedberg",
+    "joke": "I don't have a microwave oven, but I do have a clock that occasionally cooks shit.",
+    "special": "Mitch All Together",
+    "year": 2003
+  },
+  {
+    "id": 7,
+    "comedian": "Rodney Dangerfield",
+    "joke": "My doctor told me I was ugly. I said I want a second opinion, he said 'ok you're stupid too'",
+    "special": "No Respect",
+    "year": 1980
+  },
+  {
+    "id": 8,
+    "comedian": "Rodney Dangerfield",
+    "joke": "I could tell my parents hated me. My bath toys were a toaster and a radio.",
+    "special": "No Respect",
+    "year": 1980
+  },
+  {
+    "id": 9,
+    "comedian": "Rodney Dangerfield",
+    "joke": "I told my psychiatrist that everyone hates me. He said I was being ridiculous - everyone hasn't met me yet.",
+    "special": "No Respect",
+    "year": 1980
+  },
+  {
+    "id": 10,
+    "comedian": "Rodney Dangerfield",
+    "joke": "When I was a kid my parents moved a lot, but I always found them.",
+    "special": "No Respect",
+    "year": 1980
+  },
+  {
+    "id": 11,
+    "comedian": "Rodney Dangerfield",
+    "joke": "When I was born I was so ugly the doctor slapped my mother.",
+    "special": "No Respect",
+    "year": 1980
+  },
+  {
+    "id": 12,
+    "comedian": "Rodney Dangerfield",
+    "joke": "My doctor told me to watch my drinking. Now I drink in front of a mirror.",
+    "special": "No Respect",
+    "year": 1980
+  }
+]

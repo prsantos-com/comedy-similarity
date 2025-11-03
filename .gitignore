@@ -1,0 +1,7 @@
+# Full list of jokes
+data/jokes.json
+
+# Virtual environment
+venv/
+.venv/
+env/
