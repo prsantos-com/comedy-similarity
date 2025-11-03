@@ -114,5 +114,5 @@ Install Python 3.3 or later, create your virtual environment then run the follow
 ```bash
 source venv/Scripts/activate
 pip install -r requirements.txt
-python similarity_detector.py
+python src/similarity_detector.py
 ```
