@@ -1,0 +1,1110 @@
+Loading embedding model...
+Loading jokes...
+Generating embeddings...
+Computing similarities...
+
+=== Similar Jokes ===
+
+Joke: I bought a $7 pen because I always lose pens and I got sick of not caring.
+By: Mitch Hedberg (1999)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I used to do drugs. I still do, but I used to, too.
+By: Mitch Hedberg (1999)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.52
+    When I was younger, everybody smoked cigarettes when they drank. That's over. Anybody still rippin' butts? ... Now smoking's kinda shameful. Weed used to be a drug, used to put you in jail. Now weed got its medical degree and turned its life around. Those two completely traded places.
+    By: Mark Normand (2023)
+  - Similarity: 0.40
+    I'm glad alcohol's the only drug you pour out for dead friends. You would never do that with, like, cocaine, you know? You're like, 'We all love Greg, but that shit's expensive, all right? Take it easy.'
+    By: Mark Normand (2017)
+  - Similarity: 0.35
+    My old man never liked me. He gave me my allowance in traveler's checks.
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: I'm against picketing, but I don't know how to show it.
+By: Mitch Hedberg (1999)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: My fake plants died because I did not pretend to water them.
+By: Mitch Hedberg (2003)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.32
+    I could tell my parents hated me. My bath toys were a toaster and a radio.
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: When I was a boy, I laid in my twin-sized bed and wondered where my brother was.
+By: Mitch Hedberg (2003)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.45
+    When I was a kid my parents moved a lot, but I always found them.
+    By: Rodney Dangerfield (1980)
+  - Similarity: 0.33
+    I could tell my parents hated me. My bath toys were a toaster and a radio.
+    By: Rodney Dangerfield (1980)
+  - Similarity: 0.31
+    What a childhood I had. My mother never breast-fed me. She said she liked me as a friend
+    By: Rodney Dangerfield (2004)
+
+================================================================================
+
+Joke: I don't have a microwave oven, but I do have a clock that occasionally cooks shit.
+By: Mitch Hedberg (2003)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: My doctor told me I was ugly. I said I want a second opinion, he said 'ok you're stupid too'
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I could tell my parents hated me. My bath toys were a toaster and a radio.
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I told my psychiatrist that everyone hates me. He said I was being ridiculous - everyone hasn't met me yet.
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.47
+    They say the best advice is 'be yourself.' That's the worst advice. You've seen yourself in the morning, dude, that guy sucks. That's the weirdest version of you that nobody else sees.
+    By: Mark Normand (2017)
+
+================================================================================
+
+Joke: When I was a kid my parents moved a lot, but I always found them.
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.45
+    When I was a boy, I laid in my twin-sized bed and wondered where my brother was.
+    By: Mitch Hedberg (2003)
+
+================================================================================
+
+Joke: When I was born I was so ugly the doctor slapped my mother.
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: My doctor told me to watch my drinking. Now I drink in front of a mirror.
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.40
+    I'm what you'd call a functioning alcoholic. Any functioning alcoholics here? Yeah, all right. We're tough, we don't bitch. Susie didn't show up because she has the flu. Well, I have disease and I'm keeping it a secret. Where's my plaque, huh?
+    By: Mark Normand (2017)
+  - Similarity: 0.37
+    I have a lot of anxiety, so I smoke a lot of weed. Which I found out is how I just get drunk, but quiet.
+    By: Mark Normand (2020)
+
+================================================================================
+
+Joke: Pie can't compete with cake. Put candles in a cake, it's a birthday cake. Put candles in a pie, someone's drunk in the kitchen.
+By: Jim Gaffigan (2006)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: The Pearly Gates. Am I the only one who finds it odd that Heaven has gates? What kind of neighborhood is Heaven in?
+By: Jim Gaffigan (2006)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Kale is a superfood and it's special power is tasting bad.
+By: Jim Gaffigan (2006)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: If camping is so great, why are the bugs always trying to get in your house?
+By: Jim Gaffigan (2006)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.32
+    What I don't get is, why do they make the closet so hard to open? They put a little knob on there. What are you afraid of?
+    By: Jerry Seinfeld (2017)
+
+================================================================================
+
+Joke: Isn't it strange -- when you're single, all you see is couples, and when you're part of a couple, all you see are hookers.
+By: Jim Gaffigan (2006)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Raising kids may be a thankless job with ridiculous hours, but at least the pay sucks.
+By: Jim Gaffigan (2006)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.36
+    I mean, they don't grade fathers. But if your daughter's a stripper, you fucked up.
+    By: Chris Rock (2004)
+  - Similarity: 0.35
+    When you’re a kid, you think of money as being solid, a physical thing. It’s a lot different when you’re an adult and it’s always just a number on a screen.
+    By: Jerry Seinfeld (1993)
+
+================================================================================
+
+Joke: Do you know what the good side of crack is? If you're up at the right hour, you can get a VCR for $1.50. You can furnish your whole house for $10.95.
+By: Chris Rock (1996)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.34
+    I got myself extorted, which happens in this business. I come home from the road. There was a FedEx sitting on the kitchen table, and it was addressed to me, so I opened it. I don't know who delivered it. And there was a videocassette inside, with a note written on it that said 'Gotcha.' Oh, my god. Can you imagine? I freaked out. I tore the whole house apart, trying to find a VCR. I hadn't seen a tape in, like, over a decade.
+    By: Dave Chappelle (2004)
+
+================================================================================
+
+Joke: You know what GED stands for? Good Enough Diploma.
+By: Chris Rock (1996)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Community college is like a disco with books: 'Here's ten dollars; let me get my learn on!'
+By: Chris Rock (1996)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: So you gotta look at OJ's situation. He's paying $25,000 a month in alimony, got another man driving around in his car and fucking his wife in a house he's still paying the mortgage on. Now I'm not saying he should have killed her...but I understand.
+By: Chris Rock (1996)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Everybody want to know what the kids was listening to, what kind of music they was listening to, or what kind of movies they was watching. Who gives a fuck what they was watching? Whatever happened to CRAZY?
+By: Chris Rock (1999)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    I could tell my parents hated me. My bath toys were a toaster and a radio.
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: I mean, they don't grade fathers. But if your daughter's a stripper, you fucked up.
+By: Chris Rock (2004)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.36
+    Raising kids may be a thankless job with ridiculous hours, but at least the pay sucks.
+    By: Jim Gaffigan (2006)
+  - Similarity: 0.34
+    The only difference between beating your kid and beating your dick is, you beat your kid at the mall, nobody stops you.
+    By: Mark Normand (2023)
+
+================================================================================
+
+Joke: The government hates rap. That's why they don't arrest anybody that kills rappers! Only the good ones are dead, man! Only the good ones: Biggie dead, Tupac dead, Vanilla Ice still alive! They don't fill out a police report. They don't even have a chalk line when it's a dead rapper, they just take a piss around the body.
+By: Chris Rock (2004)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    A black man would never dream of talking to the police high. That's a waste of weed. I'm serious. I mean, I'd be scared to talk to the police when I'm sleepy.
+    By: Dave Chappelle (2000)
+
+================================================================================
+
+Joke: Are we so desperate for entertainment that we will fall for a trickless magician?? Where the fuck's the trick? Saw a woman in half. Pull a rabbit out of a hat. Do something! What tricks does this guy have? 'I'm in a box...and I ain't gonna eat'. 'I'm in a box...and I ain't gonna eat'!! That ain't no trick! That's called living in the projects!
+By: Chris Rock (2004)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    Is it me, or do commercials have nothing to do with the products anymore? You dig? I don't even know what a fucking commercial is about until the end. Every one is a surprise nowadays. You seen that commercial where the lady got the black eye? This lady comes on TV with a black eye, she's crying, she's like, 'I smoke crack. And my husband beats me.' And then a voice came on and said, 'Got milk?'
+    By: Dave Chappelle (1998)
+  - Similarity: 0.30
+    I had a crackhead break my car window one time, broke it. You know what he stole? A fucking candy bar I had lying on the seat. That's all he took. A goddamn candy bar. I was so mad, I drove around the neighborhood for five hours, looking for a crackhead with chocolate on his face. I did that. I finally found him, I grabbed that motherfucker and said, 'Hey man! What's all this chocolate on your face, motherfucker?' He looked confused. 'Chocolate? This is doo-doo, baby!'
+    By: Dave Chappelle (2004)
+
+================================================================================
+
+Joke: Remember when we was young, everybody used to have these arguments about who's better, Michael Jackson or Prince? Prince won!
+By: Chris Rock (2004)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: If you wanna get away with murder, all you gotta do is shoot somebody in the head and put a demo tape in their pocket! 'This is a rap killing. Let's go home!'
+By: Chris Rock (2004)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.37
+    Cremation is like you're trying to cover up a crime. 'Burn the body. Scatter the ashes around.'
+    By: Jerry Seinfeld (1985)
+  - Similarity: 0.33
+    My house got robbed in New York. I didn't even call the police. I wanted to, but I couldn't. My crib is too nice. It's not that it's too nice, but it's too nice for me. You know how the police are in New York. Soon as I open the door, they'll be like, 'He's still here! Open and shut case, Johnson. Apparently this black guy broke in and hung up pictures of his family everywhere. Never seen anything like it.'
+    By: Dave Chappelle (1998)
+
+================================================================================
+
+Joke: I am not addicted to gambling although I am addicted to sitting in a semi-circle.
+By: Mitch Hedberg (1999)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: A severed foot is the ultimate stocking stuffer.
+By: Mitch Hedberg (1999)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: My friend asked me if I wanted a frozen banana, I said 'No, but I want a regular banana later, so...yeah'.
+By: Mitch Hedberg (1999)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.46
+    You know, I was in Santa Fe the other night, and a motherfucker threw a banana peel at me. Yeah, that didn't feel so good. Of course, it was a white person. Not to indict the whites, I'm just saying. Not to profile. And then, not only did he throw a banana peel at me, but, uh, it was premeditated. You could tell. You could tell, the peel was too brown. You know what I mean? You didn't eat that banana recently, motherfucker. You had that shit waiting on me.
+    By: Dave Chappelle (2017)
+  - Similarity: 0.39
+    Monkeypox kind of sounds like a kid's cereal. It's like, 'What's the prize inside?' Sex with men
+    By: Jim Gaffigan (2023)
+  - Similarity: 0.36
+    I had a crackhead break my car window one time, broke it. You know what he stole? A fucking candy bar I had lying on the seat. That's all he took. A goddamn candy bar. I was so mad, I drove around the neighborhood for five hours, looking for a crackhead with chocolate on his face. I did that. I finally found him, I grabbed that motherfucker and said, 'Hey man! What's all this chocolate on your face, motherfucker?' He looked confused. 'Chocolate? This is doo-doo, baby!'
+    By: Dave Chappelle (2004)
+
+================================================================================
+
+Joke: Whenever I go to shave, I assume there's someone else on the planet shaving, so I say 'I'm gonna go shave, too.'
+By: Mitch Hedberg (1999)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.30
+    A little girl told me I was 'riddled with anxiety' the other day. I go, 'You can't be riddled with something good.' It's always a bad thing. You're never 'riddled with vacation,' you know?
+    By: Mark Normand (2017)
+
+================================================================================
+
+Joke: My wife and I were happy for twenty years. Then we met
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.32
+    Greeting cards are a waste of money. What am I going to write inside there anyway? 'Here's another couple having a better relationship than us.'
+    By: Jerry Seinfeld (1983)
+
+================================================================================
+
+Joke: I came from a real tough neighborhood. I put my hand in some cement and felt another hand.
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    I used to do drugs. I still do, but I used to, too.
+    By: Mitch Hedberg (1999)
+
+================================================================================
+
+Joke: What a childhood I had. My mother never breast-fed me. She said she liked me as a friend
+By: Rodney Dangerfield (2004)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: My old man never liked me. He gave me my allowance in traveler's checks.
+By: Rodney Dangerfield (1980)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Monkeypox kind of sounds like a kid's cereal. It's like, 'What's the prize inside?' Sex with men
+By: Jim Gaffigan (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.39
+    My friend asked me if I wanted a frozen banana, I said 'No, but I want a regular banana later, so...yeah'.
+    By: Mitch Hedberg (1999)
+  - Similarity: 0.30
+    I had a crackhead break my car window one time, broke it. You know what he stole? A fucking candy bar I had lying on the seat. That's all he took. A goddamn candy bar. I was so mad, I drove around the neighborhood for five hours, looking for a crackhead with chocolate on his face. I did that. I finally found him, I grabbed that motherfucker and said, 'Hey man! What's all this chocolate on your face, motherfucker?' He looked confused. 'Chocolate? This is doo-doo, baby!'
+    By: Dave Chappelle (2004)
+
+================================================================================
+
+Joke: We all know some anti-vaxxers, and some of us used to know an anti-vaxxer.
+By: Jim Gaffigan (2023)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: At Catholic funerals, you're supposed to kneel next to the casket and say a prayer. That prayer goes like this: 'One-Mississippi, two-Mississippi...'
+By: Jim Gaffigan (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    Cremation is like you're trying to cover up a crime. 'Burn the body. Scatter the ashes around.'
+    By: Jerry Seinfeld (1985)
+
+================================================================================
+
+Joke: Dress for the afterlife you want. People usually say, 'He looks like he's resting.' 'Or he passed out at an office Christmas party. Why is he wearing a tie?' If you want me to rest in peace, bury me in pajamas.
+By: Jim Gaffigan (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.42
+    I'll never understand how a tie is supposed to enhance the professional appearance of a man. If I want to hang myself, I'll wear a tie.
+    By: Jerry Seinfeld (1994)
+  - Similarity: 0.37
+    Cremation is like you're trying to cover up a crime. 'Burn the body. Scatter the ashes around.'
+    By: Jerry Seinfeld (1985)
+
+================================================================================
+
+Joke: My house got robbed in New York. I didn't even call the police. I wanted to, but I couldn't. My crib is too nice. It's not that it's too nice, but it's too nice for me. You know how the police are in New York. Soon as I open the door, they'll be like, 'He's still here! Open and shut case, Johnson. Apparently this black guy broke in and hung up pictures of his family everywhere. Never seen anything like it.'
+By: Dave Chappelle (1998)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I don't even know why people do crime. They want to catch you, they're gonna catch you. They can. They got forensics. You ever seen forensics? Those guys find clues nobody else thinks about looking for. I mean it. You leave a pubic hair anywhere near a crime scene, they're gonna find that shit.
+By: Dave Chappelle (1998)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.33
+    If you wanna get away with murder, all you gotta do is shoot somebody in the head and put a demo tape in their pocket! 'This is a rap killing. Let's go home!'
+    By: Chris Rock (2004)
+  - Similarity: 0.30
+    I saw a mean blind guy with a seeing-eye dog. I thought, 'You know what? Who picks up his dog's shit?' The blind guy's not doing it. This might be the best life hack of all time.
+    By: Mark Normand (2023)
+
+================================================================================
+
+Joke: If you're an American, you're a racist. We're brought up from the beginning to think in generalizations. We never look at the individual. We rarely look at the individual. I'm a racist. I know I'm a racist. You know how I know? 'Cuz the other day I caught myself being racist against myself. There's so much shit going on, I got mixed up. Forgot whose team I was on and shit.
+By: Dave Chappelle (1998)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.44
+    What if you're racist? How do you get rid of that? You can't just take an allergy pill. Maybe they should have a pill you take that makes you like different things. That'd be kind of fun.
+    By: Mark Normand (2023)
+
+================================================================================
+
+Joke: Is it me, or do commercials have nothing to do with the products anymore? You dig? I don't even know what a fucking commercial is about until the end. Every one is a surprise nowadays. You seen that commercial where the lady got the black eye? This lady comes on TV with a black eye, she's crying, she's like, 'I smoke crack. And my husband beats me.' And then a voice came on and said, 'Got milk?'
+By: Dave Chappelle (1998)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.59
+    They have the 'new and improved' commercials. If it was so new and improved, why wasn't it that way in the first place?
+    By: Jerry Seinfeld (1985)
+  - Similarity: 0.39
+    I got called a douche bag at a show recently. That's a fun word, huh? Douche bag. Yeah, 'cause the insult is more popular than the actual product
+    By: Mark Normand (2017)
+
+================================================================================
+
+Joke: A black man would never dream of talking to the police high. That's a waste of weed. I'm serious. I mean, I'd be scared to talk to the police when I'm sleepy.
+By: Dave Chappelle (2000)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.45
+    I have a lot of anxiety, so I smoke a lot of weed. Which I found out is how I just get drunk, but quiet.
+    By: Mark Normand (2020)
+  - Similarity: 0.35
+    Weed's everywhere now. It's borderline healthy. How do you punish a kid for smoking weed these days? My dad made me smoke the whole pack [of cigarettes]. What do you do with a kid with weed now? 'We found a roach in your room. You gotta smoke this whole eighth.' He'd be like, 'Well, put on *The Office*, 'cause... we're going in.'
+    By: Mark Normand (2023)
+  - Similarity: 0.35
+    I'm a white guy. I can't even say 'What's up, my man?' to a black guy. And he's a man! I can't say 'my man!' I'm not allowed to use two-thirds of that sentence.
+    By: Mark Normand (2020)
+
+================================================================================
+
+Joke: White people do not like to talk about their political affiliations. It's a secret. You ever ask a white guy who's he voting for, like, 'Hey, Bob, uh, Bob, who you gonna vote for?' 'Dave! Dave! Whoa, whoa, whoa! Take it easy now. Take it easy. So anyway, um, I was fucking my wife in her ass, right? And I mean, it was something else.' 'Yeah, yeah, but who are you voting for?' 'Dave! Dave, come on with the voting! I'm trying to tell you about fucking my wife, and you're asking me all these personal questions.'
+By: Dave Chappelle (2000)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.41
+    I'm a white guy. I can't even say 'What's up, my man?' to a black guy. And he's a man! I can't say 'my man!' I'm not allowed to use two-thirds of that sentence.
+    By: Mark Normand (2020)
+
+================================================================================
+
+Joke: Like, see, I'd never vote for George Bush Jr., but I don't know George Bush Jr.'s politics. Only thing I know about George Bush Jr. is that that guy sniffed cocaine. That's right. Now, listen, we cannot have that shit in the White House. That might be fine for a mayor, but goddammit, not in the White House! Not in the White House. Mmm-mm. Know what I'm saying? The stakes are too high in the white house. Can't have no cokehead president, mmm-mm. He'd be selling nuclear secrets for twenty, thirty dollars and shit.
+By: Dave Chappelle (2000)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I had a crackhead break my car window one time, broke it. You know what he stole? A fucking candy bar I had lying on the seat. That's all he took. A goddamn candy bar. I was so mad, I drove around the neighborhood for five hours, looking for a crackhead with chocolate on his face. I did that. I finally found him, I grabbed that motherfucker and said, 'Hey man! What's all this chocolate on your face, motherfucker?' He looked confused. 'Chocolate? This is doo-doo, baby!'
+By: Dave Chappelle (2004)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.39
+    I saw a mean blind guy with a seeing-eye dog. I thought, 'You know what? Who picks up his dog's shit?' The blind guy's not doing it. This might be the best life hack of all time.
+    By: Mark Normand (2023)
+
+================================================================================
+
+Joke: You know, I was in Santa Fe the other night, and a motherfucker threw a banana peel at me. Yeah, that didn't feel so good. Of course, it was a white person. Not to indict the whites, I'm just saying. Not to profile. And then, not only did he throw a banana peel at me, but, uh, it was premeditated. You could tell. You could tell, the peel was too brown. You know what I mean? You didn't eat that banana recently, motherfucker. You had that shit waiting on me.
+By: Dave Chappelle (2017)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.46
+    My friend asked me if I wanted a frozen banana, I said 'No, but I want a regular banana later, so...yeah'.
+    By: Mitch Hedberg (1999)
+
+================================================================================
+
+Joke: I got myself extorted, which happens in this business. I come home from the road. There was a FedEx sitting on the kitchen table, and it was addressed to me, so I opened it. I don't know who delivered it. And there was a videocassette inside, with a note written on it that said 'Gotcha.' Oh, my god. Can you imagine? I freaked out. I tore the whole house apart, trying to find a VCR. I hadn't seen a tape in, like, over a decade.
+By: Dave Chappelle (2004)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.34
+    Do you know what the good side of crack is? If you're up at the right hour, you can get a VCR for $1.50. You can furnish your whole house for $10.95.
+    By: Chris Rock (1996)
+
+================================================================================
+
+Joke: I'm what you'd call a functioning alcoholic. Any functioning alcoholics here? Yeah, all right. We're tough, we don't bitch. Susie didn't show up because she has the flu. Well, I have disease and I'm keeping it a secret. Where's my plaque, huh?
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.40
+    My doctor told me to watch my drinking. Now I drink in front of a mirror.
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: They say the best advice is 'be yourself.' That's the worst advice. You've seen yourself in the morning, dude, that guy sucks. That's the weirdest version of you that nobody else sees.
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.47
+    I told my psychiatrist that everyone hates me. He said I was being ridiculous - everyone hasn't met me yet.
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: I like how every time you take a flight, you feel like it's your first day of class all over again. You're on that plane, single-file line, book bag on, just trying to find your seat.
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.40
+    What is the deal with airline food? You know, the little packets of peanuts. They're trying to give you an even break, they say 'take all you want,' but they only give you one packet.
+    By: Jerry Seinfeld (1984)
+
+================================================================================
+
+Joke: People always talk about how honest you are when you're drunk. I feel like I'm way more honest when I'm hung over. When I'm drunk, I can lie all day. When I'm hung over, that's when I'm honest. My life's in shambles, I have nothing to live for, yeah?
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I'm glad alcohol's the only drug you pour out for dead friends. You would never do that with, like, cocaine, you know? You're like, 'We all love Greg, but that shit's expensive, all right? Take it easy.'
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: A little girl told me I was 'riddled with anxiety' the other day. I go, 'You can't be riddled with something good.' It's always a bad thing. You're never 'riddled with vacation,' you know?
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    My friend asked me if I wanted a frozen banana, I said 'No, but I want a regular banana later, so...yeah'.
+    By: Mitch Hedberg (1999)
+  - Similarity: 0.33
+    I could tell my parents hated me. My bath toys were a toaster and a radio.
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: My therapist is moving to a different state. That's how bad I am, I'm making professionals move.
+By: Mark Normand (2020)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.33
+    I told my psychiatrist that everyone hates me. He said I was being ridiculous - everyone hasn't met me yet.
+    By: Rodney Dangerfield (1980)
+  - Similarity: 0.31
+    When I was a kid my parents moved a lot, but I always found them.
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: They say you shouldn't drink on an empty stomach. I'm just happy if my stomach is empty. I don't need all that food slowing down the booze.
+By: Mark Normand (2020)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I'm a white guy. I can't even say 'What's up, my man?' to a black guy. And he's a man! I can't say 'my man!' I'm not allowed to use two-thirds of that sentence.
+By: Mark Normand (2020)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.41
+    White people do not like to talk about their political affiliations. It's a secret. You ever ask a white guy who's he voting for, like, 'Hey, Bob, uh, Bob, who you gonna vote for?' 'Dave! Dave! Whoa, whoa, whoa! Take it easy now. Take it easy. So anyway, um, I was fucking my wife in her ass, right? And I mean, it was something else.' 'Yeah, yeah, but who are you voting for?' 'Dave! Dave, come on with the voting! I'm trying to tell you about fucking my wife, and you're asking me all these personal questions.'
+    By: Dave Chappelle (2000)
+  - Similarity: 0.35
+    A black man would never dream of talking to the police high. That's a waste of weed. I'm serious. I mean, I'd be scared to talk to the police when I'm sleepy.
+    By: Dave Chappelle (2000)
+
+================================================================================
+
+Joke: I don't trust Google. I always try to tell Google the truth. I just type in 'I'm scared of you, Google, please don't kill me.'
+By: Mark Normand (2020)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I always thought you were supposed to eat a bunch of food and then drink. Then I realized that's why they call it a *beer* belly. You're doing it wrong! It's *empty* stomach and then booze.
+By: Mark Normand (2020)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.36
+    My doctor told me to watch my drinking. Now I drink in front of a mirror.
+    By: Rodney Dangerfield (1980)
+  - Similarity: 0.35
+    The whole purpose of the gym is to work out, to look good, so we can sit around and eat the food we shouldn't have been eating in the first place.
+    By: Jerry Seinfeld (1998)
+
+================================================================================
+
+Joke: I have a lot of anxiety, so I smoke a lot of weed. Which I found out is how I just get drunk, but quiet.
+By: Mark Normand (2020)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.45
+    A black man would never dream of talking to the police high. That's a waste of weed. I'm serious. I mean, I'd be scared to talk to the police when I'm sleepy.
+    By: Dave Chappelle (2000)
+
+================================================================================
+
+Joke: My friend got drunk one night, blacked out, hooked up with somebody, got herpes. So he quit drinking. I was like, 'Why are you punishing the alcohol?'
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Weed's everywhere now. It's borderline healthy. How do you punish a kid for smoking weed these days? My dad made me smoke the whole pack [of cigarettes]. What do you do with a kid with weed now? 'We found a roach in your room. You gotta smoke this whole eighth.' He'd be like, 'Well, put on *The Office*, 'cause... we're going in.'
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    A black man would never dream of talking to the police high. That's a waste of weed. I'm serious. I mean, I'd be scared to talk to the police when I'm sleepy.
+    By: Dave Chappelle (2000)
+
+================================================================================
+
+Joke: I saw a mean blind guy with a seeing-eye dog. I thought, 'You know what? Who picks up his dog's shit?' The blind guy's not doing it. This might be the best life hack of all time.
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.39
+    I had a crackhead break my car window one time, broke it. You know what he stole? A fucking candy bar I had lying on the seat. That's all he took. A goddamn candy bar. I was so mad, I drove around the neighborhood for five hours, looking for a crackhead with chocolate on his face. I did that. I finally found him, I grabbed that motherfucker and said, 'Hey man! What's all this chocolate on your face, motherfucker?' He looked confused. 'Chocolate? This is doo-doo, baby!'
+    By: Dave Chappelle (2004)
+  - Similarity: 0.30
+    My house got robbed in New York. I didn't even call the police. I wanted to, but I couldn't. My crib is too nice. It's not that it's too nice, but it's too nice for me. You know how the police are in New York. Soon as I open the door, they'll be like, 'He's still here! Open and shut case, Johnson. Apparently this black guy broke in and hung up pictures of his family everywhere. Never seen anything like it.'
+    By: Dave Chappelle (1998)
+
+================================================================================
+
+Joke: The only difference between beating your kid and beating your dick is, you beat your kid at the mall, nobody stops you.
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.34
+    I mean, they don't grade fathers. But if your daughter's a stripper, you fucked up.
+    By: Chris Rock (2004)
+  - Similarity: 0.31
+    When you’re a kid, you think of money as being solid, a physical thing. It’s a lot different when you’re an adult and it’s always just a number on a screen.
+    By: Jerry Seinfeld (1993)
+
+================================================================================
+
+Joke: I love an old person with a cane. You know, you're never rude to an old person with a cane. You're like, 'He could go crazy. He has a weapon, too.'
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    My old man never liked me. He gave me my allowance in traveler's checks.
+    By: Rodney Dangerfield (1980)
+  - Similarity: 0.31
+    When I was born I was so ugly the doctor slapped my mother.
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: I love the gay community. So much better than the straight community. They're like, 'You like dick, and you have one.' That's pretty good. I like vagina. You know how much work it was to get vagina? You gotta go out and tell a story and lie.
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I think people that get offended are just afraid of their own thoughts. They're like, 'I agree with him! I gotta yell!'
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.31
+    White people do not like to talk about their political affiliations. It's a secret. You ever ask a white guy who's he voting for, like, 'Hey, Bob, uh, Bob, who you gonna vote for?' 'Dave! Dave! Whoa, whoa, whoa! Take it easy now. Take it easy. So anyway, um, I was fucking my wife in her ass, right? And I mean, it was something else.' 'Yeah, yeah, but who are you voting for?' 'Dave! Dave, come on with the voting! I'm trying to tell you about fucking my wife, and you're asking me all these personal questions.'
+    By: Dave Chappelle (2000)
+  - Similarity: 0.31
+    If you're an American, you're a racist. We're brought up from the beginning to think in generalizations. We never look at the individual. We rarely look at the individual. I'm a racist. I know I'm a racist. You know how I know? 'Cuz the other day I caught myself being racist against myself. There's so much shit going on, I got mixed up. Forgot whose team I was on and shit.
+    By: Dave Chappelle (1998)
+
+================================================================================
+
+Joke: When I was younger, everybody smoked cigarettes when they drank. That's over. Anybody still rippin' butts? ... Now smoking's kinda shameful. Weed used to be a drug, used to put you in jail. Now weed got its medical degree and turned its life around. Those two completely traded places.
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.52
+    I used to do drugs. I still do, but I used to, too.
+    By: Mitch Hedberg (1999)
+
+================================================================================
+
+Joke: What if you're racist? How do you get rid of that? You can't just take an allergy pill. Maybe they should have a pill you take that makes you like different things. That'd be kind of fun.
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.44
+    If you're an American, you're a racist. We're brought up from the beginning to think in generalizations. We never look at the individual. We rarely look at the individual. I'm a racist. I know I'm a racist. You know how I know? 'Cuz the other day I caught myself being racist against myself. There's so much shit going on, I got mixed up. Forgot whose team I was on and shit.
+    By: Dave Chappelle (1998)
+  - Similarity: 0.35
+    You know, I was in Santa Fe the other night, and a motherfucker threw a banana peel at me. Yeah, that didn't feel so good. Of course, it was a white person. Not to indict the whites, I'm just saying. Not to profile. And then, not only did he throw a banana peel at me, but, uh, it was premeditated. You could tell. You could tell, the peel was too brown. You know what I mean? You didn't eat that banana recently, motherfucker. You had that shit waiting on me.
+    By: Dave Chappelle (2017)
+
+================================================================================
+
+Joke: I like a guy who knows what's going on, not some guy who's like, 'I'm a good guy, I'm a good guy.' It's like, 'Yeah, you're nice, but I'm gonna be in the trenches with the guy who's not allowed at the children's party, all right? He's a wild card.'
+By: Mark Normand (2023)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I just hate flying. Flying is so high-maintenance. Flying's like, 'You want to get inside me, you get here an hour early, take your shoes off and do a body scan.' A train is like a drunk chick: 'Get a beer, get in here!'
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.43
+    What is the deal with airline food? You know, the little packets of peanuts. They're trying to give you an even break, they say 'take all you want,' but they only give you one packet.
+    By: Jerry Seinfeld (1984)
+
+================================================================================
+
+Joke: Love a train. The only flaw of a train, though- If you fall asleep on a train, they just keep going, you know? They don't know where you live and they don't care. Right? Every time I wake up on a train, I look like a rufie victim. I'm like, where are we? Who is he? I trusted you.
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I got called a douche bag at a show recently. That's a fun word, huh? Douche bag. Yeah, 'cause the insult is more popular than the actual product
+By: Mark Normand (2017)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.39
+    Is it me, or do commercials have nothing to do with the products anymore? You dig? I don't even know what a fucking commercial is about until the end. Every one is a surprise nowadays. You seen that commercial where the lady got the black eye? This lady comes on TV with a black eye, she's crying, she's like, 'I smoke crack. And my husband beats me.' And then a voice came on and said, 'Got milk?'
+    By: Dave Chappelle (1998)
+  - Similarity: 0.34
+    I had a crackhead break my car window one time, broke it. You know what he stole? A fucking candy bar I had lying on the seat. That's all he took. A goddamn candy bar. I was so mad, I drove around the neighborhood for five hours, looking for a crackhead with chocolate on his face. I did that. I finally found him, I grabbed that motherfucker and said, 'Hey man! What's all this chocolate on your face, motherfucker?' He looked confused. 'Chocolate? This is doo-doo, baby!'
+    By: Dave Chappelle (2004)
+
+================================================================================
+
+Joke: What is the deal with airline food? You know, the little packets of peanuts. They're trying to give you an even break, they say 'take all you want,' but they only give you one packet.
+By: Jerry Seinfeld (1984)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.43
+    I just hate flying. Flying is so high-maintenance. Flying's like, 'You want to get inside me, you get here an hour early, take your shoes off and do a body scan.' A train is like a drunk chick: 'Get a beer, get in here!'
+    By: Mark Normand (2017)
+  - Similarity: 0.40
+    I like how every time you take a flight, you feel like it's your first day of class all over again. You're on that plane, single-file line, book bag on, just trying to find your seat.
+    By: Mark Normand (2017)
+  - Similarity: 0.33
+    I always thought you were supposed to eat a bunch of food and then drink. Then I realized that's why they call it a *beer* belly. You're doing it wrong! It's *empty* stomach and then booze.
+    By: Mark Normand (2020)
+
+================================================================================
+
+Joke: A woman's place is in the wrong.
+By: Jerry Seinfeld (1998)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Men don't want to follow directions. We're too confident. We know where we're going. We've got a vague general idea.
+By: Jerry Seinfeld (1998)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Greeting cards are a waste of money. What am I going to write inside there anyway? 'Here's another couple having a better relationship than us.'
+By: Jerry Seinfeld (1983)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.32
+    My wife and I were happy for twenty years. Then we met
+    By: Rodney Dangerfield (1980)
+
+================================================================================
+
+Joke: I like to go into the supermarket and just start opening up packets of cheese. Just to see if anyone says anything.
+By: Jerry Seinfeld (1990)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.34
+    They say you shouldn't drink on an empty stomach. I'm just happy if my stomach is empty. I don't need all that food slowing down the booze.
+    By: Mark Normand (2020)
+  - Similarity: 0.33
+    My friend asked me if I wanted a frozen banana, I said 'No, but I want a regular banana later, so...yeah'.
+    By: Mitch Hedberg (1999)
+
+================================================================================
+
+Joke: They have the 'new and improved' commercials. If it was so new and improved, why wasn't it that way in the first place?
+By: Jerry Seinfeld (1985)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.59
+    Is it me, or do commercials have nothing to do with the products anymore? You dig? I don't even know what a fucking commercial is about until the end. Every one is a surprise nowadays. You seen that commercial where the lady got the black eye? This lady comes on TV with a black eye, she's crying, she's like, 'I smoke crack. And my husband beats me.' And then a voice came on and said, 'Got milk?'
+    By: Dave Chappelle (1998)
+
+================================================================================
+
+Joke: It's amazing that the amount of news that happens in the world every day always just exactly fits the newspaper.
+By: Jerry Seinfeld (1991)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: There is no such thing as fun for the whole family. Because if it's fun for the whole family, it's not fun.
+By: Jerry Seinfeld (1985)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: The Pop-Tart is the perfect food. It's got no nutritional value whatsoever. It's just a dessert for breakfast.
+By: Jerry Seinfeld (1998)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: The men's room sign, the little triangular man—it's such an abstract symbol. How do they know he's going in the men's room?
+By: Jerry Seinfeld (1986)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Junk mail. They should call it 'pre-cycling.'
+By: Jerry Seinfeld (1992)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Have you ever seen that guy who has the record for fattest man in the world? ... 'The man has let himself go.'
+By: Jerry Seinfeld (1987)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.30
+    I saw a mean blind guy with a seeing-eye dog. I thought, 'You know what? Who picks up his dog's shit?' The blind guy's not doing it. This might be the best life hack of all time.
+    By: Mark Normand (2023)
+
+================================================================================
+
+Joke: When you’re a kid, you think of money as being solid, a physical thing. It’s a lot different when you’re an adult and it’s always just a number on a screen.
+By: Jerry Seinfeld (1993)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    Raising kids may be a thankless job with ridiculous hours, but at least the pay sucks.
+    By: Jim Gaffigan (2006)
+  - Similarity: 0.31
+    The only difference between beating your kid and beating your dick is, you beat your kid at the mall, nobody stops you.
+    By: Mark Normand (2023)
+
+================================================================================
+
+Joke: The whole purpose of the gym is to work out, to look good, so we can sit around and eat the food we shouldn't have been eating in the first place.
+By: Jerry Seinfeld (1998)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.35
+    I always thought you were supposed to eat a bunch of food and then drink. Then I realized that's why they call it a *beer* belly. You're doing it wrong! It's *empty* stomach and then booze.
+    By: Mark Normand (2020)
+
+================================================================================
+
+Joke: The ATM is a good invention. I like it. It's a little scary, though. You stand there and you punch in your number. And the machine knows who you are.
+By: Jerry Seinfeld (1984)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Cremation is like you're trying to cover up a crime. 'Burn the body. Scatter the ashes around.'
+By: Jerry Seinfeld (1985)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.37
+    Dress for the afterlife you want. People usually say, 'He looks like he's resting.' 'Or he passed out at an office Christmas party. Why is he wearing a tie?' If you want me to rest in peace, bury me in pajamas.
+    By: Jim Gaffigan (2023)
+  - Similarity: 0.37
+    If you wanna get away with murder, all you gotta do is shoot somebody in the head and put a demo tape in their pocket! 'This is a rap killing. Let's go home!'
+    By: Chris Rock (2004)
+  - Similarity: 0.35
+    At Catholic funerals, you're supposed to kneel next to the casket and say a prayer. That prayer goes like this: 'One-Mississippi, two-Mississippi...'
+    By: Jim Gaffigan (2023)
+
+================================================================================
+
+Joke: Making out is one of those things where, as you get older, the stakes get higher.
+By: Jerry Seinfeld (1998)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: I'll never understand how a tie is supposed to enhance the professional appearance of a man. If I want to hang myself, I'll wear a tie.
+By: Jerry Seinfeld (1994)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.42
+    Dress for the afterlife you want. People usually say, 'He looks like he's resting.' 'Or he passed out at an office Christmas party. Why is he wearing a tie?' If you want me to rest in peace, bury me in pajamas.
+    By: Jim Gaffigan (2023)
+
+================================================================================
+
+Joke: Pants are a tough garment to get right. They're a long tube that you have to step into... It’s an insane design.
+By: Jerry Seinfeld (2017)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: The breakup is the worst. It's like a car crash where you're just sitting there, with no visible damage, but you feel this intense emotional pain.
+By: Jerry Seinfeld (1995)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: Just what is the handicapped parking situation at the Special Olympics? Is it still just the two spaces?
+By: Jerry Seinfeld (1986)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: They're gonna have a jury of your peers. And if you're O.J. Simpson, who are your peers?
+By: Jerry Seinfeld (1998)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: What I don't get is, why do they make the closet so hard to open? They put a little knob on there. What are you afraid of?
+By: Jerry Seinfeld (2017)
+
+Most similar jokes (different comedians only):
+  - Similarity: 0.32
+    If camping is so great, why are the bugs always trying to get in your house?
+    By: Jim Gaffigan (2006)
+
+================================================================================
+
+Joke: The tollbooth? It's the moment of human contact in the highway machine.
+By: Jerry Seinfeld (1985)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+Joke: If you've got a T-shirt with a bloodstain all over it, maybe laundry isn't your biggest problem.
+By: Jerry Seinfeld (1982)
+
+Most similar jokes (different comedians only):
+
+================================================================================
+
+
+================================================================================
+=== TOP CROSS-COMEDIAN SIMILARITIES ===
+================================================================================
+
+Found 86 cross-comedian similarities above 0.3
+
+TOP 10:
+
+1. Similarity: 0.592
+   Joke 1: Dave Chappelle (1998): "Is it me, or do commercials have nothing to do with the products anymore? You di..."
+   Joke 2: Jerry Seinfeld (1985): "They have the 'new and improved' commercials. If it was so new and improved, why..."
+
+2. Similarity: 0.521
+   Joke 1: Mitch Hedberg (1999): "I used to do drugs. I still do, but I used to, too...."
+   Joke 2: Mark Normand (2023): "When I was younger, everybody smoked cigarettes when they drank. That's over. An..."
+
+3. Similarity: 0.469
+   Joke 1: Rodney Dangerfield (1980): "I told my psychiatrist that everyone hates me. He said I was being ridiculous - ..."
+   Joke 2: Mark Normand (2017): "They say the best advice is 'be yourself.' That's the worst advice. You've seen ..."
+
+4. Similarity: 0.462
+   Joke 1: Mitch Hedberg (1999): "My friend asked me if I wanted a frozen banana, I said 'No, but I want a regular..."
+   Joke 2: Dave Chappelle (2017): "You know, I was in Santa Fe the other night, and a motherfucker threw a banana p..."
+
+5. Similarity: 0.454
+   Joke 1: Mitch Hedberg (2003): "When I was a boy, I laid in my twin-sized bed and wondered where my brother was...."
+   Joke 2: Rodney Dangerfield (1980): "When I was a kid my parents moved a lot, but I always found them...."
+
+6. Similarity: 0.449
+   Joke 1: Dave Chappelle (2000): "A black man would never dream of talking to the police high. That's a waste of w..."
+   Joke 2: Mark Normand (2020): "I have a lot of anxiety, so I smoke a lot of weed. Which I found out is how I ju..."
+
+7. Similarity: 0.441
+   Joke 1: Dave Chappelle (1998): "If you're an American, you're a racist. We're brought up from the beginning to t..."
+   Joke 2: Mark Normand (2023): "What if you're racist? How do you get rid of that? You can't just take an allerg..."
+
+8. Similarity: 0.430
+   Joke 1: Mark Normand (2017): "I just hate flying. Flying is so high-maintenance. Flying's like, 'You want to g..."
+   Joke 2: Jerry Seinfeld (1984): "What is the deal with airline food? You know, the little packets of peanuts. The..."
+
+9. Similarity: 0.421
+   Joke 1: Jim Gaffigan (2023): "Dress for the afterlife you want. People usually say, 'He looks like he's restin..."
+   Joke 2: Jerry Seinfeld (1994): "I'll never understand how a tie is supposed to enhance the professional appearan..."
+
+10. Similarity: 0.413
+   Joke 1: Dave Chappelle (2000): "White people do not like to talk about their political affiliations. It's a secr..."
+   Joke 2: Mark Normand (2020): "I'm a white guy. I can't even say 'What's up, my man?' to a black guy. And he's ..."
+
+=== THRESHOLD ANALYSIS ===
+
+Threshold 0.35: 29 pairs
+Threshold 0.4: 12 pairs
+Threshold 0.42: 9 pairs
+Threshold 0.45: 5 pairs
+  0.592: Dave Chappelle vs Jerry Seinfeld
+  0.521: Mitch Hedberg vs Mark Normand
+  0.469: Rodney Dangerfield vs Mark Normand
+  0.462: Mitch Hedberg vs Dave Chappelle
+  0.454: Mitch Hedberg vs Rodney Dangerfield
+
+Threshold 0.48: 2 pairs
+  0.592: Dave Chappelle vs Jerry Seinfeld
+  0.521: Mitch Hedberg vs Mark Normand
+
+Threshold 0.5: 2 pairs
+  0.592: Dave Chappelle vs Jerry Seinfeld
+  0.521: Mitch Hedberg vs Mark Normand
+
+
+=== TEMPORAL ANALYSIS: HIGH SIMILARITY PAIRS ===
+Score: 0.592
+  Earlier: Jerry Seinfeld (1985)
+  Later:   Dave Chappelle (1998)
+  Time gap: 13 years
+  INVESTIGATE: Later comedian (Dave Chappelle) has high similarity to earlier comedian (Jerry Seinfeld)
+
+Score: 0.521
+  Earlier: Mitch Hedberg (1999)
+  Later:   Mark Normand (2023)
+  Time gap: 24 years
+  INVESTIGATE: Later comedian (Mark Normand) has high similarity to earlier comedian (Mitch Hedberg)
+
+Score: 0.469
+  Earlier: Rodney Dangerfield (1980)
+  Later:   Mark Normand (2017)
+  Time gap: 37 years
+  INVESTIGATE: Later comedian (Mark Normand) has high similarity to earlier comedian (Rodney Dangerfield)
+
+Score: 0.462
+  Earlier: Mitch Hedberg (1999)
+  Later:   Dave Chappelle (2017)
+  Time gap: 18 years
+  INVESTIGATE: Later comedian (Dave Chappelle) has high similarity to earlier comedian (Mitch Hedberg)
+
+Score: 0.454
+  Earlier: Rodney Dangerfield (1980)
+  Later:   Mitch Hedberg (2003)
+  Time gap: 23 years
+  INVESTIGATE: Later comedian (Mitch Hedberg) has high similarity to earlier comedian (Rodney Dangerfield)
+
+Score: 0.449
+  Earlier: Dave Chappelle (2000)
+  Later:   Mark Normand (2020)
+  Time gap: 20 years
+
+Score: 0.441
+  Earlier: Dave Chappelle (1998)
+  Later:   Mark Normand (2023)
+  Time gap: 25 years
+
+Score: 0.430
+  Earlier: Jerry Seinfeld (1984)
+  Later:   Mark Normand (2017)
+  Time gap: 33 years
+
+Score: 0.421
+  Earlier: Jerry Seinfeld (1994)
+  Later:   Jim Gaffigan (2023)
+  Time gap: 29 years
+
+Score: 0.413
+  Earlier: Dave Chappelle (2000)
+  Later:   Mark Normand (2020)
+  Time gap: 20 years
+
+Score: 0.403
+  Earlier: Jerry Seinfeld (1984)
+  Later:   Mark Normand (2017)
+  Time gap: 33 years
+
+Score: 0.400
+  Earlier: Rodney Dangerfield (1980)
+  Later:   Mark Normand (2017)
+  Time gap: 37 years
+

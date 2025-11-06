@@ -90,12 +90,6 @@ for threshold in thresholds:
             print(f"  {item['score']:.3f}: {item['joke1']['comedian']} vs {item['joke2']['comedian']}")
         print()
 
-print("\n=== OBSERVATION ===")
-print("Clear gap between 0.40-0.44 (no pairs)")
-print("Top 2 pairs: 0.45-0.46")
-print("Next cluster: 0.35-0.39 (5 pairs)")
-print("\nRecommend threshold: 0.40 (captures top 2, filters rest)")
-
 print("\n=== TEMPORAL ANALYSIS: HIGH SIMILARITY PAIRS ===")
 
 # Focus on top 2 pairs (0.45+)
@@ -121,7 +115,7 @@ for item in high_pairs:
 
     # Flag if suspicious
     if score >= 0.45 and years_apart >= 5:
-        print(f"  ⚠️  INVESTIGATE: Later comedian ({later['comedian']}) "
+        print(f"  INVESTIGATE: Later comedian ({later['comedian']}) "
               f"has high similarity to earlier comedian ({earlier['comedian']})")
     
     print()
