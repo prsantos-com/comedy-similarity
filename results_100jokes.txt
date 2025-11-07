@@ -1073,38 +1073,3 @@ Score: 0.454
   Time gap: 23 years
   INVESTIGATE: Later comedian (Mitch Hedberg) has high similarity to earlier comedian (Rodney Dangerfield)
 
-Score: 0.449
-  Earlier: Dave Chappelle (2000)
-  Later:   Mark Normand (2020)
-  Time gap: 20 years
-
-Score: 0.441
-  Earlier: Dave Chappelle (1998)
-  Later:   Mark Normand (2023)
-  Time gap: 25 years
-
-Score: 0.430
-  Earlier: Jerry Seinfeld (1984)
-  Later:   Mark Normand (2017)
-  Time gap: 33 years
-
-Score: 0.421
-  Earlier: Jerry Seinfeld (1994)
-  Later:   Jim Gaffigan (2023)
-  Time gap: 29 years
-
-Score: 0.413
-  Earlier: Dave Chappelle (2000)
-  Later:   Mark Normand (2020)
-  Time gap: 20 years
-
-Score: 0.403
-  Earlier: Jerry Seinfeld (1984)
-  Later:   Mark Normand (2017)
-  Time gap: 33 years
-
-Score: 0.400
-  Earlier: Rodney Dangerfield (1980)
-  Later:   Mark Normand (2017)
-  Time gap: 37 years
-

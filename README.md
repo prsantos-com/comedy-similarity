@@ -151,6 +151,33 @@ An interesting false positive appeared when comparing a banana joke and a monkey
 3. For comedy, we want at least a `0.40` threshold, but `0.45` would most likely be better to find jokes that might actually be similar
 4. Given the Mark Normand frequency in the top 10, it's possible that given enough data, you could put in a set of jokes of a comedian to determine how well-rounded they are in the topic diversification based on how many different comedians they match with a high similarity.
 
+## How to Use
+
+Install Python 3.8 or later, create your virtual environment then run the following:
+
+```bash
+source venv/Scripts/activate
+pip install -r requirements.txt
+```
+
+### Run Full Analysis
+
+Analyze the complete 100 joke set and see cross-comedian similarities:
+
+```bash
+python src/similarity_detector.py
+```
+
+### Check a Single Joke
+
+Check if a joke you provide is similar to any jokes in the dataset:
+
+```bash
+python src/similarity_detector.py "What's red and bad for your teeth? A brick."
+```
+
+Jokes scoring `≥0.45` are flagged as suspicious (potential plagiarism).
+
 ## Technical Details
 
 - Embedding model: sentence-transformers (all-MiniLM-L6-v2)
@@ -167,16 +194,5 @@ An interesting false positive appeared when comparing a banana joke and a monkey
 
 ## Next Steps
 
-- Add "check a joke" feature
 - Test with AI-generated jokes
 - Add structural similarity analysis (beyond semantic embeddings)
-
-## How to Run
-
-Install Python 3.3 or later, create your virtual environment then run the following:
-
-```bash
-source venv/Scripts/activate
-pip install -r requirements.txt
-python src/similarity_detector.py
-```
